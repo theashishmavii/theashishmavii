@@ -1,4 +1,4 @@
-<!-- Header -->
+<!-- ===================== HEADER ===================== -->
 <h1 align="center">Ashish Kumar</h1>
 <h3 align="center">Software Development Engineer (SDE) | Backend | AI / ML</h3>
 
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Engineering;AI+%26+Machine+Learning;Automation+%26+Scalable+Systems;Clean+Architecture+%26+APIs" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=900&center=true&vCenter=true&width=800&lines=Backend+Engineering;AI+%26+Machine+Learning;Automation+%26+Scalable+Systems;Clean+Architecture+%26+APIs" />
 </p>
 
 ---
@@ -29,26 +29,27 @@
 ## ⚙️ Complete Tech Stack
 
 ### 🧩 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,sql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,sql" />
 </p>
 
 ---
 
 ### 🌐 Backend & Web Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,html,css" />
 </p>
 
 - Flask, FastAPI, Flask-RESTX  
 - RESTful APIs, JWT Authentication  
-- Swagger / OpenAPI, MVC & Clean Architecture  
+- Swagger / OpenAPI  
+- MVC & Clean Architecture  
 
 ---
 
 ### 🗄️ Databases & Vector Stores
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 - MySQL, MongoDB  
@@ -58,8 +59,8 @@
 ---
 
 ### 🤖 AI / ML & Computer Vision
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 </p>
 
 - TensorFlow, Keras, Scikit-learn  
@@ -71,8 +72,8 @@
 ---
 
 ### 🛠️ Tools, Automation & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode" />
 </p>
 
 - Git, GitHub, Linux  
@@ -83,84 +84,96 @@
 
 ---
 
-## 🚀 Projects (Detailed)
+## 🧪 Professional Experience (Snapshot)
+
+- **SDE Intern – Computelib**  
+  Backend services, APIs, automation workflows, vector DBs, clean architecture  
+
+- **Summer Intern – DRDO**  
+  Automation pipelines, NLP tasks, scraping, data analytics  
+
+- **AI / ML Intern – Acmegrade**  
+  Deep learning models, preprocessing, training & evaluation  
+
+---
+
+## 🚀 Projects
 
 ### 🔹 Instagram Sentiment & Profile Analyzer
-**Tech:** Python · Playwright · NLP · Instaloader  
-
-- Automated scraping of Instagram posts using hashtags  
-- Caption sentiment analysis using NLP pipelines  
-- Public profile metadata extraction for insights  
-
+**Python · Playwright · NLP · Instaloader**
+- Instagram hashtag scraping  
+- Caption sentiment analysis  
+- Public profile metadata extraction  
 🔗 https://github.com/theashishmavii/Instagram-sentiment-and-profile-analyzer-using-playwright-and-instaloader
 
 ---
 
 ### 🔹 Intelligent Crash Detection & Emergency Notification
-**Tech:** TensorFlow · OpenCV · Deep Learning · Twilio  
-
-- Real-time crash detection from video streams  
+**TensorFlow · OpenCV · Deep Learning · Twilio**
+- Real-time crash detection  
 - GPS-based location extraction  
 - Automated emergency SMS alerts  
-
 🔗 https://github.com/theashishmavii/Intelligent-Crash-Detection-and-Emergency-Notification
 
 ---
 
 ### 🔹 Recipe Recommender API
-**Tech:** FastAPI · Pydantic · Vector DB · ChromaDB  
-
-- Embedding-based recommendation system  
-- Vector similarity search for fast retrieval  
-- Clean, production-ready REST API  
-
+**FastAPI · Pydantic · Vector DB · ChromaDB**
+- Embedding-based recommendations  
+- Vector similarity search  
+- Production-ready REST APIs  
 🔗 https://github.com/theashishmavii/Recipe-recommender
 
 ---
 
 ### 🔹 Blood Cell Detection using YOLOv10
-**Tech:** YOLOv10 · OpenCV · NumPy · Matplotlib  
-
-- Detection of blood cell types from images  
-- End-to-end computer vision pipeline  
-- Medical image analysis use case  
-
+**YOLOv10 · OpenCV · Computer Vision**
+- Blood cell type detection  
+- Medical image analysis pipeline  
 🔗 https://github.com/theashishmavii/Blood-cell-detection-using-YOLOv10
 
 ---
 
 ### 🔹 WooCommerce WordPress Dashboard (Lite)
-**Tech:** Flask · SQLAlchemy · JWT · Swagger  
-
+**Flask · SQLAlchemy · JWT · Swagger**
 - Secure backend dashboard plugin  
 - Role-based authentication  
-- Structured API layer for WooCommerce  
-
 🔗 https://github.com/theashishmavii/woocommerce-wordpress-dashboard-lite
 
 ---
 
 ### 🔹 Lightweight DevinAI
-**Tech:** Flask · LangChain · Ollama · AI Agents  
-
+**Flask · LangChain · Ollama · AI Agents**
 - Minimal AI agent framework  
-- Token management with Tiktoken  
-- Testing using Pytest  
-- Git-based workflow automation  
-
+- Token management & testing  
 🔗 https://github.com/theashishmavii/Lightweight-DevinAI
 
 ---
 
-## 📊 GitHub Analytics (Fixed & Working)
+## 📈 GitHub Activity & Insights (WORKING)
 
+### 🔹 Contribution Activity Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theashishmavii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=theashishmavii&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theashishmavii&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🔹 Profile Summary Cards
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theashishmavii&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theashishmavii&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theashishmavii&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theashishmavii&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theashishmavii&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -174,6 +187,7 @@
 
 ---
 
+<!-- ===================== GRAND FINALE ===================== -->
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
