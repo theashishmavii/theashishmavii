@@ -171,13 +171,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theashishmavii&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🧩 Computer Science Fundamentals
 - Data Structures & Algorithms  
 - Object-Oriented Programming  
