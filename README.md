@@ -74,82 +74,150 @@
 
 ---
 
-## 💼 Experience Timeline
+## 🧭 Experience Timeline
 
-### 🚀 SDE Intern — **Computelib**
-📍 Noida | 🗓️ Aug 2025 – Present
+<div align="center">
 
-- ⚙️ Backend APIs: **FastAPI, Flask, SQLAlchemy, Pydantic**
-- 🧩 Clean Architecture & MVC-based services
-- 🔄 Automation workflows with **n8n + Vector DBs**
-- 🔐 JWT Auth, Swagger Docs, Postman Testing
-- 🤖 AI agents, embeddings & internal tooling *(NDA safe)*
+### 🚀 SDE Intern — Computelib
+🗓️ Aug 2025 → Present  
+📍 Noida  
 
----
+<img src="https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Flask-black?style=flat&logo=flask"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-red?style=flat"/>
+<img src="https://img.shields.io/badge/n8n-orange?style=flat"/>
+<img src="https://img.shields.io/badge/VectorDB-purple?style=flat"/>
 
-### 🛰️ Summer Intern — **DRDO**
-📍 New Delhi | 🗓️ Jun 2025 – Jul 2025
-
-- 🤖 Automated pipelines using **Playwright & Selenium**
-- 📊 NLP-based sentiment & classification systems
-- 🐍 Python automation for scraping & monitoring
-- 🔬 Research-oriented analytics *(NDA safe)*
+📌 **Impact**
+- Built scalable backend services & microservices  
+- Automated workflows using **n8n + Vector DBs**  
+- AI agents, embeddings & internal tools *(NDA safe)*  
 
 ---
 
-### 🧪 Research Intern — **CU Jammu + DRDO**
-🗓️ Jun 2024 – Jul 2024
+### 🛰️ Summer Intern — DRDO
+🗓️ Jun 2025 → Jul 2025  
+📍 New Delhi  
 
-- 🧠 CV & ML models: **VGG16, K-Means, OpenCV**
-- 📡 IoT pipelines with **Raspberry Pi & Sensors**
-- 🚨 Alert systems via **Twilio SMS APIs**
+<img src="https://img.shields.io/badge/Playwright-green?style=flat"/>
+<img src="https://img.shields.io/badge/Selenium-darkgreen?style=flat"/>
+<img src="https://img.shields.io/badge/NLP-blue?style=flat"/>
 
----
-
-### 🤖 AI Intern — **Acmegrade**
-🗓️ Feb 2024 – Apr 2024
-
-- 📈 ML & DL models with **TensorFlow & Scikit-learn**
-- 🧹 Data preprocessing & feature engineering
-- 📊 Model evaluation & visualization
+📌 **Impact**
+- Automated data pipelines & monitoring systems  
+- NLP-based sentiment & content classification  
+- Research-driven Python automation  
 
 ---
 
-## 🚀 Projects Showcase
+### 🧪 Research Intern — CU Jammu × DRDO
+🗓️ Jun 2024 → Jul 2024  
 
-### 📊 Instagram Sentiment Analyzer  
-🔗 https://github.com/theashishmavii/Instagram-sentiment-and-profile-analyzer-using-playwright-and-instaloader  
-**Python | Playwright | NLP**
+<img src="https://img.shields.io/badge/OpenCV-blue?style=flat"/>
+<img src="https://img.shields.io/badge/VGG16-purple?style=flat"/>
+<img src="https://img.shields.io/badge/IoT-grey?style=flat"/>
 
----
-
-### 🚑 Intelligent Crash Detection  
-🔗 https://github.com/theashishmavii/Intelligent-Crash-Detection-and-Emergency-Notification  
-**OpenCV | TensorFlow | Twilio**
-
----
-
-### 🍽️ Recipe Recommender API  
-🔗 https://github.com/theashishmavii/Recipe-recommender  
-**FastAPI | Vector DB | ChromaDB**
+📌 **Impact**
+- CV & ML models for real-time analysis  
+- IoT pipelines with sensors & Raspberry Pi  
+- SMS alert systems using Twilio  
 
 ---
 
-### 🩸 Blood Cell Detection (YOLOv10)  
-🔗 https://github.com/theashishmavii/Blood-cell-detection-using-YOLOv10  
-**Computer Vision | Medical AI**
+### 🤖 AI Intern — Acmegrade
+🗓️ Feb 2024 → Apr 2024  
+
+<img src="https://img.shields.io/badge/TensorFlow-orange?style=flat"/>
+<img src="https://img.shields.io/badge/Scikit--learn-blue?style=flat"/>
+
+📌 **Impact**
+- Built ML/DL pipelines end-to-end  
+- Model tuning, evaluation & visualization  
+
+</div>
+
 
 ---
 
-### 🛒 WooCommerce Dashboard Lite  
-🔗 https://github.com/theashishmavii/woocommerce-wordpress-dashboard-lite  
-**Flask | WordPress | JWT | Swagger**
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 📊 Instagram Sentiment & Profile Analyzer
+<img src="https://img.shields.io/badge/Python-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Playwright-green?style=flat"/>
+<img src="https://img.shields.io/badge/NLP-yellow?style=flat"/>
+
+🔍 Scrapes Instagram posts & profiles  
+🧠 NLP sentiment analysis on captions  
+⚡ Automated, scalable scraping pipeline  
+
+🔗 https://github.com/theashishmavii/Instagram-sentiment-and-profile-analyzer-using-playwright-and-instaloader
 
 ---
 
-### 🤖 Lightweight DevinAI  
-🔗 https://github.com/theashishmavii/Lightweight-DevinAI  
-**LangChain | Ollama | AI Agents**
+### 🚑 Intelligent Crash Detection System
+<img src="https://img.shields.io/badge/OpenCV-blue?style=flat"/>
+<img src="https://img.shields.io/badge/TensorFlow-orange?style=flat"/>
+<img src="https://img.shields.io/badge/Twilio-red?style=flat"/>
+
+🚗 Real-time crash detection from video  
+📍 GPS-based location tracking  
+📩 Automatic emergency SMS alerts  
+
+🔗 https://github.com/theashishmavii/Intelligent-Crash-Detection-and-Emergency-Notification
+
+---
+
+### 🍽️ Recipe Recommender API
+<img src="https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi"/>
+<img src="https://img.shields.io/badge/ChromaDB-purple?style=flat"/>
+
+🔎 Vector similarity-based recommendations  
+⚡ High-performance API design  
+📦 Clean, modular backend architecture  
+
+🔗 https://github.com/theashishmavii/Recipe-recommender
+
+---
+
+### 🩸 Blood Cell Detection (YOLOv10)
+<img src="https://img.shields.io/badge/YOLOv10-black?style=flat"/>
+<img src="https://img.shields.io/badge/OpenCV-blue?style=flat"/>
+
+🧬 Medical image analysis  
+📸 Real-time blood cell detection  
+📊 Visual analytics & metrics  
+
+🔗 https://github.com/theashishmavii/Blood-cell-detection-using-YOLOv10
+
+---
+
+### 🛒 WooCommerce Dashboard Lite
+<img src="https://img.shields.io/badge/Flask-black?style=flat"/>
+<img src="https://img.shields.io/badge/WordPress-blue?style=flat"/>
+<img src="https://img.shields.io/badge/JWT-red?style=flat"/>
+
+🛠️ Custom admin dashboard plugin  
+🔐 Secure JWT-based APIs  
+📘 Swagger-documented endpoints  
+
+🔗 https://github.com/theashishmavii/woocommerce-wordpress-dashboard-lite
+
+---
+
+### 🤖 Lightweight DevinAI
+<img src="https://img.shields.io/badge/LangChain-purple?style=flat"/>
+<img src="https://img.shields.io/badge/Ollama-black?style=flat"/>
+
+🧠 Minimal AI agent framework  
+🔄 Git automation & workflows  
+🌐 Simple web UI  
+
+🔗 https://github.com/theashishmavii/Lightweight-DevinAI
+
+</div>
+
 
 ---
 
@@ -189,3 +257,9 @@
 **SDE • Backend • AI/ML**
 
 </div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+---
