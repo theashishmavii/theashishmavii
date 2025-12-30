@@ -1,24 +1,29 @@
 <div align="center">
 
-# Ashish Kumar  
+# 👨‍💻 Ashish Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=700&center=true&vCenter=true&width=750&lines=SDE+Intern+%7C+Backend+Engineer;AI+%2F+ML+%7C+Computer+Vision+%7C+NLP;FastAPI+%7C+Flask+%7C+Automation;Turning+Ideas+into+Production+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Backend+%7C+AI+%7C+ML+%7C+Automation;FastAPI+%7C+Flask+%7C+Python+%7C+CV;Building+Production-Grade+Systems" />
 
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=theashishmavii&label=Profile+Views&color=blue&style=flat" />
+<img src="https://img.shields.io/github/followers/theashishmavii?label=Followers&style=flat" />
+
+<br/><br/>
+
 <a href="mailto:theashishmavi@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Outlook-blue?style=for-the-badge&logo=microsoft-outlook">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/kumarashishmavi">
-  <img src="https://img.shields.io/badge/LinkedIn-Ashish%20Kumar-blue?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/theashishmavii">
-  <img src="https://img.shields.io/badge/GitHub-theashishmavii-black?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🎓 Education
 
@@ -32,7 +37,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🧠 Tech Stack (Visual Overview)
 
@@ -72,7 +77,7 @@
 <img src="https://img.shields.io/badge/Ngrok-black?style=for-the-badge"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🧭 Experience Timeline
 
@@ -136,8 +141,7 @@
 
 </div>
 
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🚀 Featured Projects
 
@@ -219,7 +223,7 @@
 </div>
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🏆 Leadership & Activities
 
@@ -228,7 +232,7 @@
 🏅 **Secretariat** — Sports Society, CU Jammu  
 🏟️ **Event Coordinator** — COMBATICA 2023  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 📜 Certifications
 
@@ -240,7 +244,7 @@
 <img src="https://img.shields.io/badge/ICRIC%202023-purple?style=for-the-badge"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 📊 GitHub Analytics
 
@@ -249,7 +253,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theashishmavii&layout=compact&theme=tokyonight" height="170"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <div align="center">
 
@@ -257,9 +261,3 @@
 **SDE • Backend • AI/ML**
 
 </div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
----
