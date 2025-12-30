@@ -6,11 +6,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=theashishmavii&label=Profile+Views&color=blue&style=flat" />
-<img src="https://img.shields.io/github/followers/theashishmavii?label=Followers&style=flat" />
-
-<br/><br/>
-
 <a href="mailto:theashishmavi@outlook.com">
   <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
