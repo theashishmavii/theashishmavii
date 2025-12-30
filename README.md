@@ -1,19 +1,3 @@
-You’re absolutely right — thanks for your patience.
-I’ll fix this **once and for all**.
-
-Below is **ONE SINGLE MARKDOWN CODE BLOCK**.
-
-* No text before
-* No text after
-* No mixed formatting
-* No explanations
-* No breaks
-
-👉 **Select everything inside the box → Copy → Paste into `README.md`**
-
----
-
-````md
 <div align="center">
 
 # 👨‍💻 Ashish Kumar
