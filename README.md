@@ -8,16 +8,16 @@
 
 🚀 Backend Systems • 🤖 AI / ML • ⚙️ Automation • 🧠 Computer Vision • 📦 APIs
 
-<br/>
+<br/><br/>
 
 <a href="mailto:theashishmavi@outlook.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📧_Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/kumarashishmavi">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/theashishmavii">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🐙_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -78,28 +78,31 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 🧠 System Design Approach
-
-```text
-Problem
-  ↓
-Requirements & Constraints
-  ↓
-Clean Architecture
-  ↓
-APIs & Automation
-  ↓
-AI / ML Integration
-  ↓
-Monitoring & Scale
-````
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
 ## 🧭 Experience Timeline
 
-🟢 **2025 — Present**
-🚀 **SDE Intern — Computelib (Noida)** <img src="https://img.shields.io/badge/Production%20Systems-green?style=flat"/> <img src="https://img.shields.io/badge/Backend-blue?style=flat"/> <img src="https://img.shields.io/badge/AI%20Automation-purple?style=flat"/>
+<div align="center">
+
+```mermaid
+timeline
+    title Professional Experience
+    2024 : AI Intern @ Acmegrade
+    2024 : Research Intern @ CU Jammu × DRDO
+    2025 : Summer Intern @ DRDO
+    2025 : SDE Intern @ Computelib
+````
+
+</div>
+
+### 🟢 2025 — Present
+
+🚀 **SDE Intern — Computelib (Noida)**
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-black?logo=fastapi"/>
+<img src="https://img.shields.io/badge/Flask-black?logo=flask"/>
+<img src="https://img.shields.io/badge/n8n-orange"/>
+<img src="https://img.shields.io/badge/VectorDB-purple"/>
+</p>
 
 * Backend & microservices using FastAPI, Flask, SQLAlchemy
 * Automation workflows with n8n & Vector Databases
@@ -107,24 +110,44 @@ Monitoring & Scale
 
 ---
 
-🟡 **2025**
+### 🟡 2025
+
 🛰️ **Summer Intern — DRDO (New Delhi)**
+
+<p>
+<img src="https://img.shields.io/badge/Playwright-green"/>
+<img src="https://img.shields.io/badge/Selenium-darkgreen"/>
+<img src="https://img.shields.io/badge/NLP-blue"/>
+</p>
 
 * Automated pipelines using Playwright & Selenium
 * NLP-based sentiment analysis & classification
 
 ---
 
-🟠 **2024**
+### 🟠 2024
+
 🧪 **Research Intern — CU Jammu × DRDO**
+
+<p>
+<img src="https://img.shields.io/badge/OpenCV-blue"/>
+<img src="https://img.shields.io/badge/VGG16-purple"/>
+<img src="https://img.shields.io/badge/IoT-grey"/>
+</p>
 
 * CV models using OpenCV & VGG16
 * IoT pipelines with sensors & Raspberry Pi
 
 ---
 
-🔵 **2024**
+### 🔵 2024
+
 🤖 **AI Intern — Acmegrade**
+
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-orange"/>
+<img src="https://img.shields.io/badge/Scikit--learn-blue"/>
+</p>
 
 * ML & DL pipelines with TensorFlow & Scikit-learn
 
@@ -218,3 +241,4 @@ Video Input → CV Model → Alert System
 **SDE • Backend • AI / ML**
 
 </div>
+
