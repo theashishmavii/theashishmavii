@@ -1,8 +1,28 @@
+You’re absolutely right — thanks for your patience.
+I’ll fix this **once and for all**.
+
+Below is **ONE SINGLE MARKDOWN CODE BLOCK**.
+
+* No text before
+* No text after
+* No mixed formatting
+* No explanations
+* No breaks
+
+👉 **Select everything inside the box → Copy → Paste into `README.md`**
+
+---
+
+````md
 <div align="center">
 
 # 👨‍💻 Ashish Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Backend+%7C+AI+%7C+ML+%7C+Automation;FastAPI+%7C+Flask+%7C+Python+%7C+CV;Building+Production-Grade+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Backend+%7C+AI+%7C+ML+%7C+Automation;FastAPI+%7C+Flask+%7C+Python+%7C+Computer+Vision;Building+Production-Grade+Systems" />
+
+<br/>
+
+🚀 Backend Systems • 🤖 AI / ML • ⚙️ Automation • 🧠 Computer Vision • 📦 APIs
 
 <br/>
 
@@ -34,7 +54,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 🧠 Tech Stack (Visual Overview)
+## 🧠 Tech Stack
 
 ### 💻 Languages
 <p align="center">
@@ -74,158 +94,116 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 🧭 Experience Timeline
+## 🧠 System Design Approach
 
-<div align="center">
-
-### 🚀 SDE Intern — Computelib
-🗓️ Aug 2025 → Present  
-📍 Noida  
-
-<img src="https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Flask-black?style=flat&logo=flask"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-red?style=flat"/>
-<img src="https://img.shields.io/badge/n8n-orange?style=flat"/>
-<img src="https://img.shields.io/badge/VectorDB-purple?style=flat"/>
-
-📌 **Impact**
-- Built scalable backend services & microservices  
-- Automated workflows using **n8n + Vector DBs**  
-- AI agents, embeddings & internal tools *(NDA safe)*  
-
----
-
-### 🛰️ Summer Intern — DRDO
-🗓️ Jun 2025 → Jul 2025  
-📍 New Delhi  
-
-<img src="https://img.shields.io/badge/Playwright-green?style=flat"/>
-<img src="https://img.shields.io/badge/Selenium-darkgreen?style=flat"/>
-<img src="https://img.shields.io/badge/NLP-blue?style=flat"/>
-
-📌 **Impact**
-- Automated data pipelines & monitoring systems  
-- NLP-based sentiment & content classification  
-- Research-driven Python automation  
-
----
-
-### 🧪 Research Intern — CU Jammu × DRDO
-🗓️ Jun 2024 → Jul 2024  
-
-<img src="https://img.shields.io/badge/OpenCV-blue?style=flat"/>
-<img src="https://img.shields.io/badge/VGG16-purple?style=flat"/>
-<img src="https://img.shields.io/badge/IoT-grey?style=flat"/>
-
-📌 **Impact**
-- CV & ML models for real-time analysis  
-- IoT pipelines with sensors & Raspberry Pi  
-- SMS alert systems using Twilio  
-
----
-
-### 🤖 AI Intern — Acmegrade
-🗓️ Feb 2024 → Apr 2024  
-
-<img src="https://img.shields.io/badge/TensorFlow-orange?style=flat"/>
-<img src="https://img.shields.io/badge/Scikit--learn-blue?style=flat"/>
-
-📌 **Impact**
-- Built ML/DL pipelines end-to-end  
-- Model tuning, evaluation & visualization  
-
-</div>
+```text
+Problem
+  ↓
+Requirements & Constraints
+  ↓
+Clean Architecture
+  ↓
+APIs & Automation
+  ↓
+AI / ML Integration
+  ↓
+Monitoring & Scale
+````
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 🚀 Featured Projects
+## 🧭 Experience Timeline
 
-<div align="center">
+🟢 **2025 — Present**
+🚀 **SDE Intern — Computelib (Noida)** <img src="https://img.shields.io/badge/Production%20Systems-green?style=flat"/> <img src="https://img.shields.io/badge/Backend-blue?style=flat"/> <img src="https://img.shields.io/badge/AI%20Automation-purple?style=flat"/>
 
-### 📊 Instagram Sentiment & Profile Analyzer
-<img src="https://img.shields.io/badge/Python-blue?style=flat"/>
-<img src="https://img.shields.io/badge/Playwright-green?style=flat"/>
-<img src="https://img.shields.io/badge/NLP-yellow?style=flat"/>
-
-🔍 Scrapes Instagram posts & profiles  
-🧠 NLP sentiment analysis on captions  
-⚡ Automated, scalable scraping pipeline  
-
-🔗 https://github.com/theashishmavii/Instagram-sentiment-and-profile-analyzer-using-playwright-and-instaloader
+* Backend & microservices using FastAPI, Flask, SQLAlchemy
+* Automation workflows with n8n & Vector Databases
+* AI agents, embeddings & internal tooling *(NDA safe)*
 
 ---
 
-### 🚑 Intelligent Crash Detection System
-<img src="https://img.shields.io/badge/OpenCV-blue?style=flat"/>
-<img src="https://img.shields.io/badge/TensorFlow-orange?style=flat"/>
-<img src="https://img.shields.io/badge/Twilio-red?style=flat"/>
+🟡 **2025**
+🛰️ **Summer Intern — DRDO (New Delhi)**
 
-🚗 Real-time crash detection from video  
-📍 GPS-based location tracking  
-📩 Automatic emergency SMS alerts  
-
-🔗 https://github.com/theashishmavii/Intelligent-Crash-Detection-and-Emergency-Notification
+* Automated pipelines using Playwright & Selenium
+* NLP-based sentiment analysis & classification
 
 ---
 
-### 🍽️ Recipe Recommender API
-<img src="https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi"/>
-<img src="https://img.shields.io/badge/ChromaDB-purple?style=flat"/>
+🟠 **2024**
+🧪 **Research Intern — CU Jammu × DRDO**
 
-🔎 Vector similarity-based recommendations  
-⚡ High-performance API design  
-📦 Clean, modular backend architecture  
-
-🔗 https://github.com/theashishmavii/Recipe-recommender
+* CV models using OpenCV & VGG16
+* IoT pipelines with sensors & Raspberry Pi
 
 ---
 
-### 🩸 Blood Cell Detection (YOLOv10)
-<img src="https://img.shields.io/badge/YOLOv10-black?style=flat"/>
-<img src="https://img.shields.io/badge/OpenCV-blue?style=flat"/>
+🔵 **2024**
+🤖 **AI Intern — Acmegrade**
 
-🧬 Medical image analysis  
-📸 Real-time blood cell detection  
-📊 Visual analytics & metrics  
+* ML & DL pipelines with TensorFlow & Scikit-learn
 
-🔗 https://github.com/theashishmavii/Blood-cell-detection-using-YOLOv10
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
----
+## 🚀 Projects
 
-### 🛒 WooCommerce Dashboard Lite
-<img src="https://img.shields.io/badge/Flask-black?style=flat"/>
-<img src="https://img.shields.io/badge/WordPress-blue?style=flat"/>
-<img src="https://img.shields.io/badge/JWT-red?style=flat"/>
+### 🥇 🤖 Lightweight DevinAI
 
-🛠️ Custom admin dashboard plugin  
-🔐 Secure JWT-based APIs  
-📘 Swagger-documented endpoints  
+```text
+User / API → Flask Backend → LangChain / Ollama → Git / DB
+```
 
-🔗 https://github.com/theashishmavii/woocommerce-wordpress-dashboard-lite
+🔗 [https://github.com/theashishmavii/Lightweight-DevinAI](https://github.com/theashishmavii/Lightweight-DevinAI)
 
 ---
 
-### 🤖 Lightweight DevinAI
-<img src="https://img.shields.io/badge/LangChain-purple?style=flat"/>
-<img src="https://img.shields.io/badge/Ollama-black?style=flat"/>
+### 🥇 🛒 WooCommerce Dashboard Lite
 
-🧠 Minimal AI agent framework  
-🔄 Git automation & workflows  
-🌐 Simple web UI  
+```text
+WordPress → Flask APIs → JWT Auth → Database
+```
 
-🔗 https://github.com/theashishmavii/Lightweight-DevinAI
+🔗 [https://github.com/theashishmavii/woocommerce-wordpress-dashboard-lite](https://github.com/theashishmavii/woocommerce-wordpress-dashboard-lite)
 
-</div>
+---
 
+### 🥈 📊 Instagram Sentiment & Profile Analyzer
+
+```text
+Scraper → NLP Pipeline → Sentiment Analysis
+```
+
+🔗 [https://github.com/theashishmavii/Instagram-sentiment-and-profile-analyzer-using-playwright-and-instaloader](https://github.com/theashishmavii/Instagram-sentiment-and-profile-analyzer-using-playwright-and-instaloader)
+
+---
+
+### 🥈 🚑 Intelligent Crash Detection
+
+```text
+Video Input → CV Model → Alert System
+```
+
+🔗 [https://github.com/theashishmavii/Intelligent-Crash-Detection-and-Emergency-Notification](https://github.com/theashishmavii/Intelligent-Crash-Detection-and-Emergency-Notification)
+
+---
+
+### 🥉 🍽️ Recipe Recommender API
+
+🔗 [https://github.com/theashishmavii/Recipe-recommender](https://github.com/theashishmavii/Recipe-recommender)
+
+### 🥉 🩸 Blood Cell Detection (YOLOv10)
+
+🔗 [https://github.com/theashishmavii/Blood-cell-detection-using-YOLOv10](https://github.com/theashishmavii/Blood-cell-detection-using-YOLOv10)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🏆 Leadership & Activities
 
-🎤 **Chair Member** — ICRIC 2023  
-🏁 **Event Coordinator** — CodeClash & Hack A Way (Udaan Tech Fest 2025)  
-🏅 **Secretariat** — Sports Society, CU Jammu  
-🏟️ **Event Coordinator** — COMBATICA 2023  
+🎤 Chair Member — ICRIC 2023
+🏁 Event Coordinator — CodeClash & Hack A Way (Udaan Tech Fest 2025)
+🏅 Secretariat — Sports Society, CU Jammu
+🏟️ Event Coordinator — COMBATICA 2023
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
@@ -241,18 +219,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=theashishmavii&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theashishmavii&layout=compact&theme=tokyonight" height="170"/>
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theashishmavii&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theashishmavii&theme=tokyonight"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <div align="center">
 
-### ⭐ Build. Automate. Scale.  
-**SDE • Backend • AI/ML**
+### ⭐ Build. Automate. Scale.
+
+**SDE • Backend • AI / ML**
 
 </div>
