@@ -34,7 +34,7 @@ I am a Software Development Engineer specializing in building robust backend arc
 
 | Degree | Institution | Timeline | Score |
 | :--- | :--- | :--- | :--- |
-| 🎓 **B.Tech in Computer Science & Engineering** | Central University of Jammu | 2022 – 2026 | **9.32 / 10 CGPA** |
+| 🎓 **B.Tech in Computer Science & Engineering** | Central University of Jammu | 2022 – 2026 | **9.36 / 10 CGPA** |
 | 🏫 **Senior Secondary (Class XII)** | CBSE | Jun 2021 | **95.0%** |
 | 🏫 **Secondary (Class X)** | CBSE | Jun 2019 | **94.8%** |
 
