@@ -143,6 +143,13 @@ _Feb 2024 – Apr 2024_
 
 ## 🚀 Projects
 
+### 🥇 🤖 [Kraftbox.ai](https://github.com/theashishmavii/Kraftbox.ai)
+> **A multi-platform, RAG-powered personal knowledge assistant built for developers that lives inside WhatsApp, Telegram, and Discord.**
+>
+> `AI Agents` • `WhatsApp` • `Telegram` • `Discord` • `LLMs` • `VectorDB` • `Knowledge Base` • `RAG` • `Docker` • `Github Actions`
+
+---
+
 ### 🥇 🤖 [GovSight AI](https://github.com/theashishmavii/GovSight-AI)
 > **AI-Powered Government Portal RPA Platform**
 >
